@@ -153,7 +153,17 @@ ol {
 	padding-bottom: 10px;
 	padding-left: 0px;
 }
-
+#homeTitle h1{
+	background:none;
+	border:none;
+	color:black;
+	margin:0;
+	padding:0;
+}
+#homeTitle h2{
+	margin: 1rem 0;
+	padding:0 0 .5rem 0;
+}
 #mainContent p a {
 	color: #ad5138;
 	text-decoration: none;
